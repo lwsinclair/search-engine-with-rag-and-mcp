@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/arkeodev-search-engine-with-rag-and-mcp-badge.png)](https://mseep.ai/app/arkeodev-search-engine-with-rag-and-mcp)
+
 # Search Engine with RAG and MCP
 
 A powerful search engine that combines LangChain, Model Context Protocol (MCP), Retrieval-Augmented Generation (RAG), and Ollama to create an agentic AI system capable of searching the web, retrieving information, and providing relevant answers.
